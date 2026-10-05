@@ -41,6 +41,7 @@ Contributions welcome. Please keep entries factual and free of marketing languag
 - [memU](https://github.com/NevaMind-AI/memU) - Apache-2.0 agent-memory framework where agents store notes as organized Markdown files, recalled via embedding-based ranked retrieval.
 - [MIRIX](https://github.com/Mirix-AI/MIRIX) - Apache-2.0 multi-agent memory system with six memory types (core, episodic, semantic, procedural, resource, knowledge vault); multimodal.
 - [ReasonGraph](https://github.com/bgokden/reasongraph) - MIT graph-memory library that extracts entities and cause-effect relations with small fine-tuned models, answers why-questions by walking causal chains with citations, supports time-travel queries and contradiction handling, with a hosted service (ReasonGraph Cloud).
+- [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) - MIT Git-native task and Record store for coding-agent workflows that keeps task state, Records, and decisions as Markdown committed beside the code, with append-only history, dependency-aware work, and bounded queries through a shell CLI, without a database as the source of truth.
 
 ## MCP memory servers
 
